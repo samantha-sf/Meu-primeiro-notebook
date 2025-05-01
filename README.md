@@ -9,6 +9,7 @@ O objetivo era fazer a análise de desempenho dos seguintes parâmetros:
 - Frete medio por loja.
 
 E ao final escolher a loja com menor desempenho.
+
 Bibliotecas utilizadas:
 - matplotlib.pyplot
 - pandas
