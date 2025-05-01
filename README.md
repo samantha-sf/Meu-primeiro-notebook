@@ -7,6 +7,7 @@ O objetivo era fazer a análise de desempenho dos seguintes parâmetros:
 - Média de avaliações das lojas;
 - Produtos mais e menos vendidos;
 - Frete medio por loja.
+
 E ao final escolher a loja com menor desempenho.
 Bibliotecas utilizadas:
 - matplotlib.pyplot
